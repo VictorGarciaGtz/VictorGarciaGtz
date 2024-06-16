@@ -4,6 +4,9 @@ Soy un Joven programador que desde los 14 años empezo a tener una curiosidad po
 
 En este perfil encontrarás repositorios sobre los cursos que voy cursando, ejercicios, y proyectos que voy realizando en solitario o en equipo.
 
+Tengo conocimiento en lenguajes como: C#, JavaScript, TypeScript.
+Manejando tecnologias como: ASP.NET, Angular, SQL Server.
+
 Bienvenido!
 
 
